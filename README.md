@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System — SVD++
+# 🎬 Movie Recommendation System – SVD++
 
 ## Стек
 - Python 3.10+
